@@ -1,24 +1,13 @@
 # vue-yi
+数字卦计算，自用。
+## 框架
+前端框架:vue2+vuex+vue-router
+ui框架:vant
+服务器:轻服务
 
-## Project setup
+## 插件
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm i babel-plugin-import -D
+npm i postcss-px-to-viewport -D
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
